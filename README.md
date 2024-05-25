@@ -5,11 +5,11 @@ Bike_Sharing_Multiple_Linear_Regression
 
 * Download the dataset 
 
-[Bike Sharing Dataset](dataset/day.csv)
+[Bike Sharing Dataset](datasets/day.csv)
 
 * You can access the data dictionary which describes the meaning of these variables from the provided link below with the dataset reference citations:
 
-[Data dictionary for the fields with citation used](dataset/bike-sharing-Readme.txt)
+[Data dictionary for the fields with citation used](datasets/bike-sharing-Readme.txt)
 
 
 ## Problem Statement
